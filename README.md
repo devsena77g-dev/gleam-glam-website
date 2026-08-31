@@ -1,7 +1,7 @@
 # Welcome to my gleam glam project
 
 ## Project info
-just an website i built using cdn based react,tailwind,babel no npm means anyone can run it on pc as long as you have internet
+just an website i built using cdn based react,tailwind,babel no npm means anyone can run it on their devices as long as they have internet
 
 ## How can I edit this code?
 
