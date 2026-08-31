@@ -48,7 +48,6 @@ This project is built with:
 -cdn based react
 -cdn based tailwind
 -cdn based bebal
-Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
